@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "KTRICT A KAZE Feature Extraction: Tree and Random Projection Indexing-Based CBIR Technique"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2020-08-29-paper-title-number-2
+excerpt: 'To improve the retrieval accuracy in CBIR system means reducing this semantic gap. Reducing semantic is a necessity to build a better, trusted system, since CBIR systems are applied to a lot of fields that require utmost accuracy. Time constraint is also a very important factor since a fast CBIR system leads to a fast completion of different tasks. The aim of the paper is to build a CBIR system that provides high accuracy in lower time complexity and work towards bridging the aforementioned semantic gap. CBIR systems retrieve images that are related to query image (QI) from huge datasets. The traditional CBIR systems include two phases: feature extraction and similarity matching. Here, a technique called KTRICT, a KAZE-feature extraction, tree and random-projection indexing-based CBIR technique, is introduced which incorporates indexing after feature extraction. This reduces the retrieval time by a great extent and also saves memory. Indexing divides a search space into subspaces containing similar images together, thereby decreasing the overall retrieval time.'
+date: 2020
+venue: 'International Journal of Multimedia Data Engineering and Management (IJMDEM)'
+paperurl: <!-- '[http://academicpages.github.io/files/paper1.pdf](https://dl.acm.org/doi/10.1145/3465336.3475098)' -->
+citation: 'Badal Soni, Angana Borah, Pidugu Naga Lakshmi Sowgandhi, Pramod Sarma and Ermyas Fekadu Shiferaw. (2020). &quot;Are Word Embedding Methods Stable and Should We Care About It?&quot; <i>International Journal of Multimedia Data Engineering and Management (IJMDEM) </i>. 11(2).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+<!-- This paper is about the number 2. The number 3 is left for future work. -->
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://www.igi-global.com/article/ktrict-a-kaze-feature-extraction/260964)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+<!-- Recommended citation: Badal Soni, Angana Borah, Pidugu Naga Lakshmi Sowgandhi, Pramod Sarma and Ermyas Fekadu Shiferaw. (2020). "KTRICT A KAZE Feature Extraction: Tree and Random Projection Indexing-Based CBIR Technique" <i>International Journal of Multimedia Data Engineering and Management (IJMDEM)</i>. 11(2). -->
