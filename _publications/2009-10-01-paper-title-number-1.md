@@ -13,4 +13,4 @@ citation: 'Angana Borah, Manash Pratim Barman, Amit C Awekar. (2021). &quot;Are 
 
 [Download paper here](https://dl.acm.org/doi/10.1145/3465336.3475098)
 
-Recommended citation: Angana Borah, Manash Pratim Barman, Amit C Awekar. (2021). "Are Word Embedding Methods Stable and Should We Care About It?" <i>In Proceedings of the 32nd ACM Conference on Hypertext and Social Media </i>. (pp. 45-55).
+<!-- Recommended citation: Angana Borah, Manash Pratim Barman, Amit C Awekar. (2021). "Are Word Embedding Methods Stable and Should We Care About It?" <i>In Proceedings of the 32nd ACM Conference on Hypertext and Social Media </i>. (pp. 45-55). -->
