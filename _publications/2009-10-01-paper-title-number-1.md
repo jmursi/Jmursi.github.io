@@ -7,10 +7,10 @@ excerpt: 'The central idea of this paper is to explore the stability measurement
 date: 2021-08-29
 venue: 'ACM HyperText'
 paperurl: <!-- 'https://dl.acm.org/doi/10.1145/3465336.3475098' -->
-citation: <!-- 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).' -->
+citation: <!-- 'Angana Borah, Manash Pratim Barman, Amit C Awekar. (2021). &quot;Are Word Embedding Methods Stable and Should We Care About It?&quot; <i>In Proceedings of the 32nd ACM Conference on Hypertext and Social Media </i>. (pp. 45-55).' -->
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
 
 [Download paper here](https://dl.acm.org/doi/10.1145/3465336.3475098)
 
-<!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
+Recommended citation: Angana Borah, Manash Pratim Barman, Amit C Awekar. (2021). "Are Word Embedding Methods Stable and Should We Care About It?" <i>In Proceedings of the 32nd ACM Conference on Hypertext and Social Media </i>. (pp. 45-55).
