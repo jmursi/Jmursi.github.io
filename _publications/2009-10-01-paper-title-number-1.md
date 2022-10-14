@@ -12,4 +12,4 @@ citation: <!-- 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Jou
 
 [Download paper here](https://dl.acm.org/doi/10.1145/3465336.3475098)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+<!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
