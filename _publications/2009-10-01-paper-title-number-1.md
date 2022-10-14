@@ -6,7 +6,7 @@ excerpt: 'A representation learning method is considered stable if it consistent
 date: 2021-08-29
 venue: 'ACM HyperText 2021'
 paperurl: 'https://dl.acm.org/doi/10.1145/3465336.3475098'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+<!-- citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).' -->
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
 
