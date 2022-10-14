@@ -13,7 +13,7 @@ name                     : &name "Angana Borah"
 description              : &description "personal description"
 url                      : https://AnganaB.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/AnganaB.github.io"
+repository               : "AnganaB/AnganaB.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Angana Borah"
-  avatar           : "profile.png"
+  avatar           : "AnganaB.github.io/Screenshot 2022-10-14 at 7.41.26 PM.png"
   bio              : "Graduate Student"
   location         : "Atlanta, Georgia"
   employer         :
