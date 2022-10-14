@@ -1,12 +1,21 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Hello, and welcome to my website! I am Angana, and I am a master's student in Computer Science at [Georgia Tech](https://www.cc.gatech.edu/). My research interests are broadly in Natural Language Processing and Machine Learning, with specific interests in multilinguality, and interpretability. I am also passionate about fairness and bias mitigation in NLP. 
+I am currently pursuing a research iternship at the [German Research Centre for Artificial Intelligence](https://www.dfki.de/web) in the [Language Technology and Multilingualism](https://www.dfki.de/web/forschung/forschungsbereiche/sprachtechnologie-und-multilingualitaet) group and [Universität des Saarlandes](https://www.uni-saarland.de/start.html) under [Dr. Josef van Genabith](https://www.uni-saarland.de/lehrstuhl/genabith.html) and [Dr. Cristina España Bonet](https://www.dfki.de/web/forschung/forschungsbereiche/sprachtechnologie-und-multilingualitaet/mt-team), where I am working on problems related to translationese, multilinguality and interpretability. 
+
+This summer, I worked as a research intern at the (Pennebaker Language Lab)[https://www.words.live/] and worked under the guidance of [Dr. James W. Pennebaker](https://liberalarts.utexas.edu/psychology/faculty/pennebak) on natural language understanding in social media. Prior to my master's, I worked at Microsoft for an year after completing my Bachelors in Computer Science and Engineering at National Institute of Technology, Silchar. During my Bachelors, I worked under the guidance of [Dr. Badal Soni](http://cs.nits.ac.in/badal/) on Computer Vision, specifically on Content Based Image Retrieval Systems and [Dr. Ripon Patgiri](http://cs.nits.ac.in/rp/) on Bloom Filters in Named Data Networking.  
+
+
+
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
