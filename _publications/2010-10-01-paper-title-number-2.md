@@ -10,6 +10,6 @@ citation: 'Badal Soni, Angana Borah, Pidugu Naga Lakshmi Sowgandhi, Pramod Sarma
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
 
-[Download paper here](https://dl.acm.org/doi/10.1145/3465336.3475098)
+[Download paper here](https://www.igi-global.com/article/ktrict-a-kaze-feature-extraction/260964)
 
 <!-- Recommended citation: Badal Soni, Angana Borah, Pidugu Naga Lakshmi Sowgandhi, Pramod Sarma and Ermyas Fekadu Shiferaw. (2020). "KTRICT A KAZE Feature Extraction: Tree and Random Projection Indexing-Based CBIR Technique" <i>International Journal of Multimedia Data Engineering and Management (IJMDEM)</i>. 11(2). -->
