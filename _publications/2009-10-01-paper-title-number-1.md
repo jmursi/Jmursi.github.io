@@ -2,7 +2,7 @@
 title: "Are Word Embedding Methods Stable and Should We Care About It?"
 authors: "Angana Borah, Manash Pratim Barman, Amit C Awekar"
 collection: publications
-permalink: /publication/2021-08-29-paper-title-number-2
+permalink: /publication/2021-08-29-HT21
 excerpt: 'The central idea of this paper is to explore the stability measurement of WEMs using intrinsic evaluation based on word similarity. We experiment with three popular WEMs: Word2Vec, GloVe, and fastText. For stability measurement, we investigate the effect of five parameters involved in training these models. We perform experiments using four real-world datasets from different domains: Wikipedia, News, Song lyrics, and European parliament proceedings. We also observe the effect of WEM stability on two downstream tasks: Clustering and Fairness evaluation. Our experiments indicate that amongst the three WEMs, fastText is the most stable, followed by GloVe and Word2Vec.'
 date: 2021-08-29
 venue: 'ACM HyperText'
