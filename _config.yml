@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Angana Borah"
 title_separator          : "-"
 name                     : &name "Angana Borah"
-description              : &description "personal description"
+description              : &description "personal website"
 url                      : https://AnganaB.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AnganaB/AnganaB.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &AnganaBorah2
 facebook:
   username               :
   app_id                 :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/anganaborah/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
