@@ -7,7 +7,7 @@ excerpt: 'Singing is my hobby, but I am also trained in North Indian (Hindustani
 
 ---
 
-I often post song covers on my Instagram. My ID is [\_anganaborah](https://www.instagram.com/_anganaborah/) feel free to send a request! If I know you, we can definitely connect :) 
+I often post song covers on my Instagram. My ID is [\_anganaborah](https://www.instagram.com/_anganaborah/) feel free to send a request! If I know you, we can definitely connect and discuss music! :) 
 
 <!-- 
 Heading 1
