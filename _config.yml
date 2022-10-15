@@ -176,6 +176,9 @@ kramdown:
 
 # Collections
 collections:
+  misc:
+    output: true
+    permalink: /:collection/:path/
   experience:
     output: true 
     permalink: /:collection/:path/
@@ -256,6 +259,15 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _misc
+  - scope:
+      path: ""
+      type: misc
     values:
       layout: single
       author_profile: true
