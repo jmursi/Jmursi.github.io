@@ -6,7 +6,7 @@ permalink: /experience/experience-summer-22
 venue: "The University of Texas at Austin"
 date1: 20 May 2022
 date2: Current 
-excerpt: 'I worked with Dr. James W. Pennebaker on natural language understanding in social media, specifically analyzing psychological, linguistic and topical dimensions of data'
+excerpt: 'I am working with Dr. James W. Pennebaker on natural language understanding in social media, specifically analyzing psychological, linguistic and topical dimensions of data'
 location: "Austin, Texas"
 ---
 
