@@ -1,7 +1,7 @@
 ---
 title: "Fall Research Intern"
 collection: experience
-type: "experience"
+type: "Multilingual Technologies (MLT) Lab"
 permalink: /experience/experience-fall-22
 venue: "German Research Center for Artificial Intelligence (DFKI) and Universität des Saarlandes (UdS)"
 date1: 15 Aug 2022
