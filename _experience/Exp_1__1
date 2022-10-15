@@ -10,7 +10,7 @@ excerpt: 'I worked on natural language processing in social media, specifically 
 location: "Atlanta, Georgia"
 ---
 
-I built a dataset using Reddit data from r/PTSD and manually annotated the data to capture different features in PTSD-related posts (symptom type, narrative structure, person involved, etc.). I also collaborated with Dr. Rosa Arriaga to further enhance and bring domain knowledge to the picture.
+As a graduate researcher, I built a dataset using Reddit data from r/PTSD and manually annotated the data to capture different features in PTSD-related posts (symptom type, narrative structure, person involved, etc.). I also collaborated with Dr. Rosa Arriaga to further enhance and bring domain knowledge to the picture.
 And finally worked on understanding the importance of coherence and elaboration in the narrative structure of the posts in terms of coping in patients. 
 
 <!-- 
