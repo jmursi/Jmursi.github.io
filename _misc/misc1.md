@@ -1,5 +1,4 @@
 ---
-title: "Fall Research Intern"
 collection: misc
 type: "Blogging"
 permalink: /misc/misc-1
