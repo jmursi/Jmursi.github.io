@@ -1,6 +1,6 @@
 ---
 title: "Community Trends in Online Mental Health Forum"
-excerpt: "We analyzed patterns in mental discourse of the student community in Reddit. We performed topic modeling and time series modeling and analysis that quantifies relationships between the qualitative topics. [Link to paper](https://drive.google.com/file/d/1kvblhM9Va7gG3Y1IFgrw00ocZ7hKVH63/view) <br/><img src='Screenshot 2022-10-15 at 7.17.12 PM.png' width='500'>"
+excerpt: "We analyzed patterns in mental discourse of the student community in Reddit. We performed topic modeling and time series modeling and analysis that quantifies relationships between the qualitative topics. [(Link to paper)](https://drive.google.com/file/d/1kvblhM9Va7gG3Y1IFgrw00ocZ7hKVH63/view) <br/><img src='Screenshot 2022-10-15 at 7.17.12 PM.png' width='500'>"
 collection: projects
 ---
 
