@@ -1,6 +1,6 @@
 ---
 title: "Fall Research Intern"
-collection: teaching
+collection: experience
 type: "Multingual Technologies Lab"
 permalink: /experience/experience-fall-22
 venue: "German Research Center for Artificial Intelligence (DFKI) and Universität des Saarlandes (UdS)"
@@ -10,14 +10,7 @@ location: "Saarbrücken, Germany"
 ---
 
 
-<!-- Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-====== -->
 
 
 I am working with Dr. Josef van Genabith and Dr. Cristina Espãna Bonet on multilinguality, intepretability and model analysis of neural networks in machine translation. 
