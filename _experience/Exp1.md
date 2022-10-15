@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Workshop"
+title: "Fall Research Intern"
+collection: experience
+type: "Multingual Technologies Lab"
 permalink: /experience/experience-fall-22
 venue: "German Research Center for Artificial Intelligence (DFKI) and Universität des Saarlandes (UdS)"
 date1: 2022-08-15
-date2: 2022-10-15
+date2: Current
 location: "Saarbrücken, Germany"
 ---
 
