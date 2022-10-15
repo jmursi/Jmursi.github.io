@@ -1,7 +1,7 @@
 ---
 title: "Fall Research Intern"
-collection: experience
-type: "experience"
+collection: teaching
+type: "teaching"
 permalink: /internship/2022_fall
 venue: "German Research Centre for Artificial Intelligence (DFKI) and Universität des Saarlandes (UdS)"
 date: 2022-08-15
