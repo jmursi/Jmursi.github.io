@@ -209,9 +209,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _experience
   - scope:
-      path: "experience"
+      path: ""
       type: experience
     values:
       layout: single
