@@ -2,16 +2,12 @@
 title: 'Singing'
 type: All genres :P
 collection: misc
-permalink: /misc/misc-1
-excerpt: 'I occasionally blog on [Medium](https://anganaborah.medium.com/) and [Wordpress](https://tech1840335671.wordpress.com/), although my Wordpress site has not been updated since 2020.:('
+permalink: /misc/misc-2
+excerpt: 'Singing is my hobby, but I am also trained in North Indian (Hindustani) Classical Music (for 5 years - completed Visharad-II which is considered as masters in Indian Classical Music). I sing and listen to almost all genres, but my personal favorites are Classical, Pop, and R&B.'
 
 ---
 
-I occasionally blog on [Medium](https://anganaborah.medium.com/) and [Wordpress](https://tech1840335671.wordpress.com/) (although my Wordpress site has not been updated since 2020)
-
-These are some of my recent blogs:
-- [Intro to Translationese](https://anganaborah.medium.com/translationese-a-brief-introduction-db4575c0ee69)
-- [Word Embeddings: How do organizations use them to build recommendation systems](https://medium.com/mlearning-ai/word-embeddings-how-do-organizations-use-them-for-building-recommendation-systems-e0341cf5e638)
+I often post song covers on my Instagram. My ID is [\_anganaborah](https://www.instagram.com/_anganaborah/) feel free to send a request! If I know you, we can definitely connect :) 
 
 <!-- 
 Heading 1
