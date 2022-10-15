@@ -41,8 +41,7 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'experience' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i></p> 
-          <p> Duration: {{ page.date1 | default: "1900-01-01"}}  -  {{ page.date2 | default: "1900-01-01" }} </p>
+          <p> {{ page.type }}, <i>{{ page.venue }}</i>, Duration: {{ page.date1 | default: "1900-01-01"}}  -  {{ page.date2 | default: "1900-01-01" }}</p> 
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
