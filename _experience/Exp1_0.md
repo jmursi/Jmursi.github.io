@@ -2,7 +2,7 @@
 title: "NLP Research Intern"
 collection: experience
 type: "Amit Awekar's Lab"
-permalink: /experience/experience-summer-22
+permalink: /experience/experience-nlp-21
 venue: "Indian Institute of Technology Guwahati"
 date1: 15 Oct 2020
 date2: 15 May 2021
