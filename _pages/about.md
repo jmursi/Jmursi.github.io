@@ -13,6 +13,7 @@ I am currently pursuing a research iternship at the [German Research Centre for 
 
 This summer, I worked as a research intern at the [Pennebaker Language Lab](https://www.words.live/) and worked under the guidance of [Dr. James W. Pennebaker](https://liberalarts.utexas.edu/psychology/faculty/pennebak) on natural language understanding in social media. Prior to my master's, I worked at Microsoft for an year after completing my Bachelors in Computer Science and Engineering at National Institute of Technology, Silchar. During my Bachelors, I worked under the guidance of [Dr. Badal Soni](http://cs.nits.ac.in/badal/) on Computer Vision, specifically on Content Based Image Retrieval Systems and [Dr. Ripon Patgiri](http://cs.nits.ac.in/rp/) on Bloom Filters in Named Data Networking.  
 
+For more information, here's the [link](https://drive.google.com/file/d/1TEnTnypLD_HCn9EaXon2p5EhLqcEJsp6/view?usp=sharing) to my CV! 
 
 <!-- 
 
