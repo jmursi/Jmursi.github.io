@@ -1,3 +1,7 @@
-Built a dataset using Reddit data from r/PTSD and manually annotated the data to capture different features in PTSD-related posts (symptom type, narrative structure, person involved, etc.). Trained and tested NLP models on the data to perform classification tasks.
-Collaborated with Dr. Rosa Arriaga (Georgia Tech) to further enhance and bring domain knowledge to the picture.
-Understand the importance of coherence and elaboration in the narrative structure of the posts in terms of coping in patients. 
+---
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: projects
+---
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
