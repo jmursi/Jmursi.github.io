@@ -21,7 +21,7 @@ Here's what I have been upto lately:
 <section id="news" class="mt-5">
 <!--           <h3 class="display-5">News</h3><hr> -->
             <ul class="clist">
-            <li> ![Prefect](https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white)
+            <li> [Prefect](https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white)
             Spending the summer working on model compression in biomedical NLP, and how it affects downstream tasks like fairness. 
           </li> 
          </ul>  
