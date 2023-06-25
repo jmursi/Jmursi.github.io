@@ -22,7 +22,8 @@ Here's what I have been upto lately:
 <!--           <h3 class="display-5">News</h3><hr> -->
           <p class="font-weight-light">
            </p><ul class="clist">
-            <li> <span class="badge badge-secondary">Jun. 15, 2023:</span> Spending the summer working on model compression in biomedical NLP, and how it affects downstream tasks like fairness. 
+             
+            <li> ![Jun. 15, 2023](https://img.shields.io/badge/chipperci-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white) Spending the summer working on model compression in biomedical NLP, and how it affects downstream tasks like fairness. 
           </li> 
          </ul>  
            
