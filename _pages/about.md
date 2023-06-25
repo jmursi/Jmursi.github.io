@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 
-
---- 
 permalink: /
 title: "News"
 excerpt: "News"
