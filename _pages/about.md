@@ -6,12 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-permalink: /
-title: "News"
-excerpt: "News"
-author_profile: true
-redirect_from: None 
 
 --- 
 Hello, and welcome to my website! I am Angana Borah, an incoming Computer Science and Engineering Ph.D. student at the [University of Michigan, Ann Arbor](https://cse.engin.umich.edu/academics/graduate/graduate-programs/phd-in-cse/). Prior to this, I completed my master's in Computer Science at [Georgia Tech](https://www.cc.gatech.edu/). **My research interests are in Natural Language Processing and Machine Learning, specifically in fairness and bias mitigation, multilingualism, and interpretability.** 
@@ -21,7 +15,7 @@ Since the summer of 2022, I have been working as a research intern at the [Penne
 
 For more information, here's the [link](https://drive.google.com/file/d/1TEnTnypLD_HCn9EaXon2p5EhLqcEJsp6/view?usp=sharing) to my CV! 
 
-
+<h2>News</h2> 
 
 Here's what I have been upto lately: 
 
