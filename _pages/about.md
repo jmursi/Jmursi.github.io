@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "About Me"
+permalink: /, / 
+title: "About Me", "News"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
