@@ -18,9 +18,16 @@ For more information, here's the [link](https://drive.google.com/file/d/1TEnTnyp
 <h2>News</h2> 
 
 Here's what I have been upto lately: 
-
-            <li> <span class="badge badge-secondary">Jun. 15, 2023:</span> Spending the summer working on model compression in biomedical NLP, and how it affects downstream tasks like fairness.  
+<section id="news" class="mt-5">
+<!--           <h3 class="display-5">News</h3><hr> -->
+          <p class="font-weight-light">
+           </p><ul class="clist">
+            <li> <span class="badge badge-secondary">Jun. 15, 2023:</span> Spending the summer working on model compression in biomedical NLP, and how it affects downstream tasks like fairness. 
           </li> 
          </ul>  
+           
+         
+        </section>
+
          
 
