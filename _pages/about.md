@@ -21,7 +21,7 @@ Here's what I have been upto lately:
 <section id="news" class="mt-5">
       <a href="#backers" alt="Backers on Open Collective">
         <img src="https://img.shields.io/opencollective/backers/shields" /></a>
-            <li> [Prefect](https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white)
+            <li> <a alt = "June 15, 2023"><img src="https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white" /></a>
             Spending the summer working on model compression in biomedical NLP, and how it affects downstream tasks like fairness. </li>    
 </section>
 
