@@ -20,8 +20,8 @@ For more information, here's the [link](https://drive.google.com/file/d/1TEnTnyp
 Here's what I have been upto lately: 
 <section id="news" class="mt-5">
       
-            > 📝 June 15, 2023
-            Spending the summer working on model compression in biomedical NLP, and how it affects downstream tasks like fairness.   
+            <li> 📝 June 15, 2023
+            Spending the summer working on model compression in biomedical NLP, and how it affects downstream tasks like fairness. </li>  
 </section>
 
          
