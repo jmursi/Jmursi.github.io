@@ -26,8 +26,7 @@ Here's what I have been upto lately:
           </li> 
          </ul>  
            
-         
-        </section>
+</section>
 
          
 
