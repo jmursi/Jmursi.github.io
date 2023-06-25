@@ -19,6 +19,8 @@ For more information, here's the [link](https://drive.google.com/file/d/1TEnTnyp
 
 Here's what I have been upto lately: 
 <section id="news" class="mt-5">
+      <a href="#backers" alt="Backers on Open Collective">
+        <img src="https://img.shields.io/opencollective/backers/shields" /></a>
             <li> [Prefect](https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white)
             Spending the summer working on model compression in biomedical NLP, and how it affects downstream tasks like fairness. </li>    
 </section>
