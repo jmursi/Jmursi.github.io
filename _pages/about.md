@@ -21,6 +21,8 @@ For more information, here's the [link](https://drive.google.com/file/d/1TEnTnyp
 Here's what I have been upto lately: <br/><br/>
 ◎ __June 15, 2023__: Working on model compression in biomedical NLP, and how it affects downstream tasks like fairness this summer with Dr. Amit Awekar <br/><br/>
 ◎ __May 5, 2023__: Graduated from Georgia Tech with a master's in Computer Science (Machine Learning specialization). ![image](https://github.com/AnganaB/AnganaB.github.io/assets/30426258/2c839235-3e79-4ae1-b8e6-02bd0fec87df)
+<img src="https://github.com/AnganaB/AnganaB.github.io/assets/30426258/2c839235-3e79-4ae1-b8e6-02bd0fec87df" alt="drawing" style="width:200px;"/>
+
  <br/><br/>
 
 
