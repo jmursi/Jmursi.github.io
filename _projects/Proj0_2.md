@@ -1,11 +1,8 @@
 ---
 title: "Investigating the Impact of Chronic Illness on Cognitive Biases"
 excerpt: " <img src='Screenshot 2022-10-15 at 7.32.00 PM.png' width='480' height='480' align='left'> 
-We used social media data from Reddit to understand <br>
-&nbsp;&nbsp;
-audience's perception about biases in movies. <br>
-&nbsp;&nbsp;
-[(Presentation Link)](https://docs.google.com/presentation/d/1glicfNUSbnFGGRVNjTtD839iCwRplZiy5HmmPHeulr4/edit?usp=sharing) <br>
+Cognitive biases impact the decision-making of patients with a chronic illness. We analyzed the presence of language patterns and psycholinguistic markers characteristic of interpretation and reporting recall cognitive biases within Reddit posts by individuals who have self-disclosed a chronic illness. Visual, interrupted time series and n-gram analyses of associated LIWC dimensions suggest that interpretation bias is more prevalent in Redditors that have self-disclosed a chronic illness and exhibit a statistically significant increase upon self-disclosure.
+[(Report Link)](https://drive.google.com/file/d/1eY7b2VEZKdFTT_Ro-TEbOtoqQIufsgLD/view?usp=sharing) <br>
 <br>
 <br>
 <br>
