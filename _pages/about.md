@@ -24,8 +24,16 @@ Here's what I have been upto lately: <br/><br/>
 ◎ __April 20-24, 2023__: Attended my first PyCon at Salt Lake City, Utah (awarded a full travel and attendee grant), and gave a talk about "_Approaches to Fairness and Bias Mitigation in NLP_" ([Talk Link!](https://www.youtube.com/watch?v=f0bEx1yT72o)) <br/><br/>
 ◎ __Aug 15, 2022__: Started my fall internship at DFKI and Saarland University in Saarbrücken, Germany under the guidance of Prof. Josef van Genabith and Dr. Cristina Expaña Bonet. Worked on the problem of translationese, multilingualism, and interpretability of neural networks. <br/><br/>
 ◎ __May 20, 2022__: Spent my summer at the language lab under the guidance of Prof. James W Pennebaker at UT Austin, wherein I worked on understanding the language used in social media pertaining to drugs and using computational techniques to determine changes over time. <br/><br/>
-◎ __Aug 30 - Sep 2, 2021__: Presented our paper "Are Word Embedding Methods Stable and Should We Care About It?" at the 2021 ACM Hypertext and Social Media conference. ([Paper Link!](https://dl.acm.org/doi/10.1145/3465336.3475098)) <br/><br/>
+◎ __Aug 30 - Sep 2, 2021__: Presented our paper "_Are Word Embedding Methods Stable and Should We Care About It?_" at the 2021 ACM Hypertext and Social Media conference. ([Paper Link!](https://dl.acm.org/doi/10.1145/3465336.3475098)) <br/><br/>
 ◎ __Aug 23, 2021__: Started my master's at Georgia Tech! <br/><br/>
+◎ __Aug 6, 2021__: Last day at Microsoft to pursue further studies. Grateful to my entire team for a wonderful year, wherein I got to learn a lot about Cloud, AI, and customer success. <br/><br/>
+◎ __June 7, 2021__: Our survey paper "A survey on the roles of Bloom Filter in implementation of the Named Data Networking" got accepted to the Elsevier Computer Networks Journal ([Paper Link!](https://www.sciencedirect.com/science/article/abs/pii/S1389128621002747)). 
+◎ __February 23, 2021__: Awarded the Diversity and Inclusion (D&I) achievement award in my segment for developing an American Sign Language translator using Microsoft Azure Services with my colleagues. <br/><br/>
+◎ __May 27, 2020__: Started working at Microsoft as a Technical Account Manager, my first corporate stint! <br/><br/>
+◎ __May 20, 2020__: Graduated with a bachelor's degree in Computer Science and Engineering from the National Institute of Technology, Silchar. <img src="https://github.com/AnganaB/AnganaB.github.io/assets/30426258/d38e0e95-333b-4c5a-9a0d-f4e59d2f3556" alt="drawing" style="width:25px;"/> <br/><br/>
+◎ __Apr 21, 2020__: Completed my thesis on Content-Based Image Retrieval Systems under the guidance of Prof. Badal Soni at NIT Silchar. <br/><br/>
+◎ __Apr 21, 2020__: Our paper "KTRICT: A KAZE Feature Extraction, Tree and Random Projection Indexing-Based CBIR Technique" got accepted to the International Journal of Multimedia Data Engineering and Management (IJMDEM). ([Paper link!](https://www.igi-global.com/article/ktrict-a-kaze-feature-extraction/260964))<br/><br/>
+
 
 
 
