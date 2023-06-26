@@ -11,7 +11,6 @@ We analyzed different distance metrics including static and learned distance met
 <br>
 <br>
 <br>
-<br>
 "
 collection: projects
 ---
