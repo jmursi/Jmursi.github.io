@@ -35,10 +35,8 @@ Here's what I have been upto lately: <br/><br/>
 ◎ __Apr 21, 2020__: Our paper "KTRICT: A KAZE Feature Extraction, Tree and Random Projection Indexing-Based CBIR Technique" got accepted to the International Journal of Multimedia Data Engineering and Management (IJMDEM). ([Paper link!](https://www.igi-global.com/article/ktrict-a-kaze-feature-extraction/260964))<br/><br/>
 
 
-
-
 <h2>Projects</h2> 
-◎ __Apr-May, 2023__: Worked on hallucination detection and mitigation. Explored data manipulation techniques, explainability, prompt engineering, and unsupervised approaches (using attention matrices) to detect and mitigate hallucinations. ([Repo Link](https://github.com/AnganaB/Hallucinations_NMT)) <br/><br/>
+◎ Apr-May, 2023: Worked on hallucination detection and mitigation. Explored data manipulation techniques, explainability, prompt engineering, and unsupervised approaches (using attention matrices) to detect and mitigate hallucinations. ([Repo Link](https://github.com/AnganaB/Hallucinations_NMT)) <br/><br/>
 
 
          
