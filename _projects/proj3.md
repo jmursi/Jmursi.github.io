@@ -1,6 +1,6 @@
 ---
 title: "Community Trends in Online Mental Health Forum"
-excerpt: " <img src='Screenshot 2023-06-27 at 12.15.45 AM.png' width='480' height='480' align='left'>
+excerpt: " <img src='Screenshot 2023-06-27 at 12.15.45 AM.png' width='500' height='500' align='left'>
 We analyzed patterns in mental discourse of the student community in Reddit. We performed topic modeling and time series modeling and analysis that quantifies relationships between the qualitative topics. [(Link to paper)](https://drive.google.com/file/d/1kvblhM9Va7gG3Y1IFgrw00ocZ7hKVH63/view)<br>
 "
 collection: projects
