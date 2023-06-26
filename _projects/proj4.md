@@ -4,7 +4,7 @@ excerpt: " <img src='Screenshot 2022-10-15 at 7.32.00 PM.png' width='480' height
 We used social media data from Reddit to understand 
 &nbsp;&nbsp;&nbsp;&nbsp; 
 audience's perception about biases in movies. 
-&nbsp;&nbsp;&nbsp;&nbsp;[(Presentation &nbsp;&nbsp;Link)](https://docs.google.com/presentation/d/1glicfNUSbnFGGRVNjTtD839iCwRplZiy5HmmPHeulr4/edit?usp=sharing) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[(Presentation Link)](https://docs.google.com/presentation/d/1glicfNUSbnFGGRVNjTtD839iCwRplZiy5HmmPHeulr4/edit?usp=sharing) <br>
 <br>
 <br>
 <br>
