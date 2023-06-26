@@ -1,6 +1,6 @@
 ---
 title: "VQA for the Visually Impaired"
-excerpt: "<img src='Screenshot 2023-06-27 at 1.06.24 AM.png' width='500' height='500' align='left'> 
+excerpt: "<img src='Screenshot 2023-06-27 at 1.06.24 AM.png' width='480' height='500' align='left'> 
 A Visual Question Answering System to help the visually impaired with navigation. We explored large pre-trained models (VGGNet and BERT) for images and text to answer queries by the visually impaired.  [(Link to project site)](https://yusufali98.github.io/Visual-Reasoning-for-the-Visually-Impaired/) <br>
 <br>
 <br>
