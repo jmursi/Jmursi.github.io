@@ -9,8 +9,7 @@ A Visual Question Answering System to help the visually impaired with navigation
 <br>
 <br>
 <br>
-<br>
-<br>"
+"
 collection: projects
 ---
 
