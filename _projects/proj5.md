@@ -1,0 +1,1 @@
+◎ __Apr-May, 2023__: Worked on hallucination detection and mitigation. Explored data manipulation techniques, explainability, prompt engineering, and unsupervised approaches (using attention matrices) to detect and mitigate hallucinations. ([Repo Link](https://github.com/AnganaB/Hallucinations_NMT))  <br/><br/>
