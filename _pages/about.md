@@ -36,7 +36,9 @@ Here's what I have been upto lately: <br/><br/>
 
 
 <h2>Projects</h2> 
-◎ Apr-May, 2023: Worked on hallucination detection and mitigation. Explored data manipulation techniques, explainability, prompt engineering, and unsupervised approaches (using attention matrices) to detect and mitigate hallucinations. ([Repo Link](https://github.com/AnganaB/Hallucinations_NMT)) <br/><br/>
+
+◎ __Apr-May, 2023__: Worked on hallucination detection and mitigation. Explored data manipulation techniques, explainability, prompt engineering, and unsupervised approaches (using attention matrices) to detect and mitigate hallucinations. ([Repo Link](https://github.com/AnganaB/Hallucinations_NMT))  <br/><br/>
+
 
 
          
