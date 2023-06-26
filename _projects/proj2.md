@@ -1,6 +1,15 @@
 ---
 title: "Distance Metric in Few Shot Learning"
-excerpt: "We analyzed different distance metrics including static and learned distance metrics in Prototypical Networks. [(Link to paper)](https://drive.google.com/file/d/121DAsB994XF6JTmlby_YYRhutrbs63Fc/view) <br/><img src='proto.png' width='300'>"
+excerpt: "<img src='proto.png' width='500' height='500' align='left'>
+We analyzed different distance metrics including static and learned distance metrics in Prototypical Networks. [(Link to paper)](https://drive.google.com/file/d/121DAsB994XF6JTmlby_YYRhutrbs63Fc/view) <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>"
 collection: projects
 ---
 
