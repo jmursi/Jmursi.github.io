@@ -1,7 +1,7 @@
 ---
 title: "VQA for the Visually Impaired"
 excerpt: "<img src='Screenshot 2022-10-15 at 3.37.11 PM.png' width='600' height='500' align='left'> 
-A Visual Question Answering System to help the visually impaired with navigation [(Link to project site)](https://yusufali98.github.io/Visual-Reasoning-for-the-Visually-Impaired/) <br/><img src='Screenshot 2022-10-15 at 3.37.11 PM.png' width='600'> <br>
+A Visual Question Answering System to help the visually impaired with navigation [(Link to project site)](https://yusufali98.github.io/Visual-Reasoning-for-the-Visually-Impaired/) <br>
 <br>
 <br>
 <br>
