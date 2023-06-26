@@ -1,8 +1,8 @@
 ---
 title: "Understanding gender biases in movies"
 excerpt: " <img src='Screenshot 2022-10-15 at 7.32.00 PM.png' width='480' height='480' align='left'> &nbsp;&nbsp;
-We used social media data from Reddit to understand 
-&nbsp;&nbsp;&nbsp;&nbsp; 
+We used social media data from Reddit to understand <br>
+&nbsp;&nbsp;
 audience's perception about biases in movies. 
 &nbsp;&nbsp;&nbsp;&nbsp;[(Presentation Link)](https://docs.google.com/presentation/d/1glicfNUSbnFGGRVNjTtD839iCwRplZiy5HmmPHeulr4/edit?usp=sharing) <br>
 <br>
