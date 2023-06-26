@@ -1,6 +1,6 @@
 ---
 title: "Hallucination Detection and Mitigation in NMT"
-excerpt: " <img src='Screenshot 2022-10-15 at 7.32.00 PM.png' width='500' align='right'>
+excerpt: " <img src='Screenshot 2022-10-15 at 7.32.00 PM.png' width='500' align='left'>
 Explored data manipulation techniques, explainability, prompt engineering, and unsupervised approaches (using attention matrices) to detect and mitigate hallucinations.[(Repo Link)](https://github.com/AnganaB/Hallucinations_NMT) "
 collection: projects
 ---
