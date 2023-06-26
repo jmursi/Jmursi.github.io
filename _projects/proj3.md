@@ -4,6 +4,8 @@ excerpt: " <img src='Screenshot 2023-06-27 at 12.15.45 AM.png' width='480' heigh
 We analyzed patterns in mental discourse of the student community in Reddit. We performed topic modeling and time series modeling and analysis that quantifies relationships between the qualitative topics. [(Paper Link)](https://drive.google.com/file/d/1kvblhM9Va7gG3Y1IFgrw00ocZ7hKVH63/view)<br>
 <br>
 <br>
+<br>
+<br>
 "
 collection: projects
 ---
