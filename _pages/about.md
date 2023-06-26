@@ -20,8 +20,7 @@ For more information, here's the [link](https://drive.google.com/file/d/1TEnTnyp
 
 Here's what I have been upto lately: <br/><br/>
 ◎ __June 15, 2023__: Working on model compression in biomedical NLP, and how it affects downstream tasks like fairness this summer with Dr. Amit Awekar <br/><br/>
-◎ __May 5, 2023__: Graduated from Georgia Tech with a master's in Computer Science (Machine Learning specialization).<img src="[https://github.com/AnganaB/AnganaB.github.io/assets/30426258/a06c8b14-7d9e-451d-8053-f6fcea2c4cc3]" alt="drawing" style="width:25px;"/><br/><br/>
-
+◎ __May 5, 2023__: Graduated from Georgia Tech with a master's in Computer Science (Machine Learning specialization).<img src="[https://github.com/AnganaB/AnganaB.github.io/assets/30426258/d38e0e95-333b-4c5a-9a0d-f4e59d2f3556]" alt="drawing" style="width:25px;"/><br/><br/>
 
          
 
