@@ -1,6 +1,6 @@
 ---
-title: "Understanding gender biases in movies"
-excerpt: " <img src='Screenshot 2022-10-15 at 7.32.00 PM.png' width='480' height='480' align='left'> &nbsp;&nbsp;
+title: "Investigating the Impact of Chronic Illness on Cognitive Biases"
+excerpt: " <img src='Screenshot 2022-10-15 at 7.32.00 PM.png' width='480' height='480' align='left'> 
 We used social media data from Reddit to understand <br>
 &nbsp;&nbsp;
 audience's perception about biases in movies. <br>
