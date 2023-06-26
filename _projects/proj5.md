@@ -1,7 +1,7 @@
 ---
 title: "Hallucination Detection and Mitigation in NMT"
 excerpt: " <img src='Screenshot 2023-06-26 at 10.55.58 PM.png' width='500' height='500' align='left'>
-Explored data manipulation techniques, explainability, prompt engineering, and unsupervised approaches (using attention matrices) to detect and mitigate hallucinations in Neural Machine Translation.
+We explored data manipulation techniques, explainability, prompt engineering, and unsupervised approaches (using attention matrices) to detect and mitigate hallucinations in Neural Machine Translation.
 [(Repo Link)](https://github.com/AnganaB/Hallucinations_NMT) "
 collection: projects
 ---
