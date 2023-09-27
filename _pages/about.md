@@ -21,7 +21,7 @@ For more information, here's the [link](https://drive.google.com/file/d/1TEnTnyp
 Here's what I have been upto lately: <br/><br/>
 
 ◎ __Sep 26, 2023__: Gave a talk about my work on understanding spurious correlations in translationese classification at the DFKI MLT (German Research Centre for AI's Multilingual Technologies Group) meeting. <br/><br/>
-◎ __Sep 5, 2023__: Presented our paper _[Measuring Spurious Correlation in Classification: 'Clever Hans' in Translationese]([https://www.words.live/](https://arxiv.org/abs/2308.13170))_ at the Recent Advances in Natural Language Processing (RANLP '23) conference in Varna, Bulgaria <br/><br/>
+◎ __Sep 5, 2023__: Presented our paper _[Measuring Spurious Correlation in Classification: 'Clever Hans' in Translationese](https://arxiv.org/abs/2308.13170)_ at the Recent Advances in Natural Language Processing (RANLP '23) conference in Varna, Bulgaria <br/><br/>
 ◎ __Aug 28, 2023__: Started my PhD at the University of Michigan, Ann Arbor. Go Blue!! <br/><br/>
 ◎ __Jun 15, 2023__: Working on model compression in biomedical NLP, and how it affects downstream tasks like fairness this summer with Dr. Amit Awekar at IIT Guwahati, India <br/><br/>
 ◎ __May 5, 2023__: Graduated from Georgia Tech with a master's in Computer Science (Machine Learning specialization).<img src="https://github.com/AnganaB/AnganaB.github.io/assets/30426258/d38e0e95-333b-4c5a-9a0d-f4e59d2f3556" alt="drawing" style="width:25px;"/><br/><br/>
