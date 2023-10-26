@@ -14,7 +14,7 @@ During my master's, I was a research intern at the [German Research Centre for A
 
 Since the summer of 2022, I have been working as a research intern at the [Pennebaker Language Lab](https://www.words.live/) under the guidance of [Dr. James W. Pennebaker](https://liberalarts.utexas.edu/psychology/faculty/pennebak) on natural language understanding in social media. Prior to my master's, I worked at Microsoft for a year after completing my Bachelors in Computer Science and Engineering at the National Institute of Technology, Silchar. During my Bachelors, I worked under the guidance of [Dr. Badal Soni](http://cs.nits.ac.in/badal/) on Content-Based Image Retrieval Systems and [Dr. Ripon Patgiri](http://cs.nits.ac.in/rp/) on Bloom Filters in Named Data Networking. I also worked on representational learning and fairness under the guidance of [Dr. Amit Awekar](https://www.iitg.ac.in/awekar/) in IIT Guwahati.   
 
-For more information, here's the [link](https://drive.google.com/file/d/1Mp3TGvLlubFL4Bs5O0WZj8ckCaI2SZN6/view?usp=sharing) to my CV! 
+For more information, here's the [link](https://drive.google.com/file/d/1Hhhcy01IVUjmIlNX8xl1_564Q3RJ0aYC/view?usp=sharing) to my CV! 
 
 <h2>News</h2> 
 
