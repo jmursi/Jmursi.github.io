@@ -19,6 +19,9 @@ For more information, here's the [link](https://drive.google.com/file/d/1Hhhcy01
 <h2>News</h2> 
 
 Here's what I have been upto lately: <br/><br/>
+@ __Apr 29, 2024__: Gave a talk about our work on 'Cross-Cultural NLP' at the UMich x MBZUAI Workshop. 
+
+◎ __Apr 15-16, 2024__: Presented our work on cross-cultural bias evaluation at [Midwest Speech and Language Days, 2024](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/). 
 
 ◎ __Sep 26, 2023__: Gave a talk about my work on understanding spurious correlations in translationese classification at the DFKI MLT (German Research Centre for AI's Multilingual Technologies Group) meeting. <br/><br/>
 ◎ __Sep 5, 2023__: Presented our paper _[Measuring Spurious Correlation in Classification: 'Clever Hans' in Translationese](https://arxiv.org/abs/2308.13170)_ at the Recent Advances in Natural Language Processing (RANLP '23) conference in Varna, Bulgaria. <br/><br/>
