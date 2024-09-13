@@ -20,6 +20,8 @@ For more information, here's the [link](https://drive.google.com/file/d/1k8RpHHO
 
 Here's what I have been upto lately: <br/><br/>
 
+@ __Sep 9, 2024__: Our paper "[Application Specific Compression of Deep Learning Models](https://arxiv.org/abs/2409.05368)" got accepted to the ACM IKDD CoDS COMAD conference. 
+
 @ __Jun 23, 2024__: Preprint of our work: Towards Region-aware Bias Evaluation Metrics available online [here](https://arxiv.org/abs/2406.16152)! 
 
 @ __Apr 29, 2024__: Gave a talk about our work on 'Cross-Cultural NLP' at the UMich x MBZUAI Workshop. 
