@@ -20,7 +20,7 @@ For more information, here's the [link](https://drive.google.com/file/d/1k8RpHHO
 
 Here's what I have been upto lately: <br/><br/>
 
-@ __Sep 20, 2024__: Our paper "Towards detection and mitigation of Implicit Biases in Multi-Agent LLM Interactions", in collaboration with my advisor, Dr. Rada Mihalcea has been accepted to EMNLP '24 Findings. Details coming soon!  
+@ __Sep 20, 2024__: Our paper "[Towards detection and mitigation of Implicit Biases in Multi-Agent LLM Interactions](https://arxiv.org/abs/2410.02584#:~:text=To%20mitigate%20them%2C%20we%20propose,to%20be%20the%20most%20successful.)", in collaboration with my advisor, Dr. Rada Mihalcea has been accepted to EMNLP '24 Findings. Details coming soon!  
 
 @ __Sep 9, 2024__: Our paper "[Application Specific Compression of Deep Learning Models](https://arxiv.org/abs/2409.05368)" got accepted to the ACM IKDD CoDS COMAD conference. 
 
