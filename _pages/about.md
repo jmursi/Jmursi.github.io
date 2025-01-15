@@ -20,9 +20,19 @@ For more information, here's the [link](https://drive.google.com/file/d/1k8RpHHO
 
 Here's what I have been upto lately: <br/><br/>
 
-@ __Sep 20, 2024__: Our paper "[Towards detection and mitigation of Implicit Biases in Multi-Agent LLM Interactions](https://arxiv.org/abs/2410.02584#:~:text=To%20mitigate%20them%2C%20we%20propose,to%20be%20the%20most%20successful.)", in collaboration with my advisor, Dr. Rada Mihalcea has been accepted to EMNLP '24 Findings. Details coming soon!  
+@ __Jan 13, 2025__: I recently achieved my candidancy after completing all requirements including passing the preliminary examination!
 
-@ __Sep 9, 2024__: Our paper "[Application Specific Compression of Deep Learning Models](https://arxiv.org/abs/2409.05368)" got accepted to the ACM IKDD CoDS COMAD conference. 
+@ __Dec 20, 2024__: Our paper "[Why AI Is WEIRD and Should Not Be This Way: Towards AI For Everyone, With Everyone, By Everyone](https://arxiv.org/pdf/2410.16315)" has been accepted at the AAAI 2025 Senior Member Presentation Track. 
+
+@ __Dec 16, 2024__: I gave a talk on Natural Language Processing, and career opportunities in computer science at the Computer Science Honor Society at Eastlake High School in Seattle, Washington. Interacting with high school students and witnessing their enthusiasm for NLP was inspiring.
+
+@ __Nov 6, 2024__: Our proposal for the 4th Workshop on NLP for Positive Impact has been accepted to ACL 2025. More details on the [website](https://sites.google.com/view/nlp4positiveimpact). 
+
+@ __Oct 24, 2024__: I was on a panel discussing "The Ups and Downs of PhD" in the EECS 601: "Intro to Grad Studies" class at the University of Michigan. 
+
+@ __Sep 20, 2024__: Our paper "[Towards detection and mitigation of Implicit Biases in Multi-Agent LLM Interactions](https://arxiv.org/abs/2410.02584#:~:text=To%20mitigate%20them%2C%20we%20propose,to%20be%20the%20most%20successful.)", in collaboration with my advisor, Dr. Rada Mihalcea has been accepted to EMNLP 2024 Findings. See you in Miami! 
+
+@ __Sep 9, 2024__: Our paper "[Application Specific Compression of Deep Learning Models](https://arxiv.org/abs/2409.05368)" got accepted to the ACM IKDD CoDS COMAD 2024 conference. 
 
 @ __Jun 23, 2024__: Preprint of our work: Towards Region-aware Bias Evaluation Metrics available online [here](https://arxiv.org/abs/2406.16152)! 
 
