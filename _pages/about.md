@@ -20,6 +20,8 @@ For more information, here's the [link](https://drive.google.com/file/d/1k8RpHHO
 
 Here's what I have been upto lately: <br/><br/>
 
+@ __Jan 22, 2025__: Our paper "[The Power of Many: Multi-Agent Multimodal Models for Cultural Image Captioning](https://arxiv.org/pdf/2411.11758)" has been accepted to NAACL 2025 (Main). Details coming soon! 
+
 @ __Jan 13, 2025__: I recently achieved my candidancy after completing all requirements including passing the preliminary examination!
 
 @ __Dec 20, 2024__: Our paper "[Why AI Is WEIRD and Should Not Be This Way: Towards AI For Everyone, With Everyone, By Everyone](https://arxiv.org/pdf/2410.16315)" has been accepted at the AAAI 2025 Senior Member Presentation Track. 
