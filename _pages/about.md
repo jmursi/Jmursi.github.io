@@ -20,6 +20,9 @@ For more information, here's the [link](https://drive.google.com/file/d/1k8RpHHO
 
 Here's what I have been upto lately: <br/><br/>
 
+@ __Mar 3-5, 2025__: I gave a talk on LLM Agents, their evaluation and insights from my PhD research at the EFH Innovation Sprint in Nairobi, Kenya. Here are the [slides](https://drive.google.com/file/d/1TJnVIliKfGTw45DSIWcX8KGxjWV04hMV/view?usp=sharing) of my talk! 
+
+
 @ __Jan 22, 2025__: Our paper "[The Power of Many: Multi-Agent Multimodal Models for Cultural Image Captioning](https://arxiv.org/pdf/2411.11758)" has been accepted to NAACL 2025 (Main). Details coming soon! 
 
 @ __Jan 13, 2025__: I recently achieved my candidancy after completing all requirements including passing the preliminary examination!
