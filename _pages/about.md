@@ -14,18 +14,19 @@ During my master's, I was a research intern at the [German Research Centre for A
 
 Since the summer of 2022, I have been working as a research intern at the [Pennebaker Language Lab](https://www.words.live/) under the guidance of [Dr. James W. Pennebaker](https://liberalarts.utexas.edu/psychology/faculty/pennebak) on natural language understanding in social media. Prior to my master's, I worked at Microsoft for a year after completing my Bachelors in Computer Science and Engineering at the National Institute of Technology, Silchar. During my Bachelors, I worked under the guidance of [Dr. Badal Soni](http://cs.nits.ac.in/badal/) on Content-Based Image Retrieval Systems and [Dr. Ripon Patgiri](http://cs.nits.ac.in/rp/) on Bloom Filters in Named Data Networking. I also worked on representational learning and fairness under the guidance of [Dr. Amit Awekar](https://www.iitg.ac.in/awekar/) in IIT Guwahati.   
 
-For more information, here's the [link](https://drive.google.com/file/d/1k8RpHHOpatOaz14ssFIVlHUwgMJmrpMW/view?usp=sharing) to my updated CV! 
+For more information, here's the [link](https://drive.google.com/file/d/1CPlpk8iF1sAr-K2PC8QlmCGAoSWtUvRD/view?usp=sharing) to my updated CV (as of Mar 2025)! 
 
 <h2>News</h2> 
 
 Here's what I have been upto lately: <br/><br/>
 
-@ __Mar 3-5, 2025__: I gave a talk on LLM Agents, their evaluation and insights from my PhD research at the EFH Innovation Sprint in Nairobi, Kenya. Here are the [slides](https://drive.google.com/file/d/1TJnVIliKfGTw45DSIWcX8KGxjWV04hMV/view?usp=sharing) of my talk! 
+@ __Mar 3-5, 2025__: I attended the [EFH Innovation Sprint](https://www.ecosystemsfinancehealth.org/hackathon-2025) in Nairobi, Kenya, where I gave a talk on LLM Agents, their evaluation and insights from my PhD research. Here are the [slides](https://drive.google.com/file/d/1TJnVIliKfGTw45DSIWcX8KGxjWV04hMV/view?usp=sharing) of my talk! 
 
+@ __Feb 26, 2025__: I gave a guest lecture for the AI Foundations Course (EECS 592) at the University of Michigan, focusing on NLP, LLMs, and insights from my research. Here are the [slides](https://drive.google.com/file/d/1Rk9_pCv_cu2ptaw4ikPI5aINnCTlH00V/view?usp=sharing) of my lecture. 
 
-@ __Jan 22, 2025__: Our paper "[The Power of Many: Multi-Agent Multimodal Models for Cultural Image Captioning](https://arxiv.org/pdf/2411.11758)" has been accepted to NAACL 2025 (Main). Details coming soon! 
+@ __Jan 22, 2025__: Our paper "[The Power of Many: Multi-Agent Multimodal Models for Cultural Image Captioning](https://arxiv.org/pdf/2411.11758)" has been accepted to NAACL 2025 (Main). See you in Albuquerque, New Mexico!  
 
-@ __Jan 13, 2025__: I recently achieved my candidancy after completing all requirements including passing the preliminary examination!
+@ __Jan 13, 2025__: I recently achieved my candidacy after completing all requirements including passing the preliminary examination!
 
 @ __Dec 20, 2024__: Our paper "[Why AI Is WEIRD and Should Not Be This Way: Towards AI For Everyone, With Everyone, By Everyone](https://arxiv.org/pdf/2410.16315)" has been accepted at the AAAI 2025 Senior Member Presentation Track. 
 
