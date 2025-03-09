@@ -20,7 +20,9 @@ For more information, here's the [link](https://drive.google.com/file/d/1CPlpk8i
 
 Here's what I have been upto lately: <br/><br/>
 
-@ __Mar 3-5, 2025__: I attended the [EFH Innovation Sprint](https://www.ecosystemsfinancehealth.org/hackathon-2025) in Nairobi, Kenya, where I gave a talk on LLM Agents, their evaluation and insights from my PhD research. Here are the [slides](https://drive.google.com/file/d/1TJnVIliKfGTw45DSIWcX8KGxjWV04hMV/view?usp=sharing) of my talk! 
+@ __Mar 3-5, 2025__: I attended the [EFH Innovation Sprint](https://www.ecosystemsfinancehealth.org/hackathon-2025) in Nairobi, Kenya, where I gave a talk on LLM Agents, their evaluation and insights from my PhD research. Here are the [slides](https://drive.google.com/file/d/1TJnVIliKfGTw45DSIWcX8KGxjWV04hMV/view?usp=sharing) of my talk. Here's my [X post](https://x.com/AnganaBorah2/status/1898087229966131603) detailing my experience! 
+
+@ __Mar 4, 2025__: Our paper "[Towards Region-aware Bias Evaluation Metrics](https://arxiv.org/abs/2406.16152)" has been accepted to the C3NLP (Cross-Cultural Considerations in NLP) workshop co-located with NAACL 2025 in Albuquerque, New Mexico!  
 
 @ __Feb 26, 2025__: I gave a guest lecture for the AI Foundations Course (EECS 592) at the University of Michigan, focusing on NLP, LLMs, and insights from my research. Here are the [slides](https://drive.google.com/file/d/1Rk9_pCv_cu2ptaw4ikPI5aINnCTlH00V/view?usp=sharing) of my lecture. 
 
