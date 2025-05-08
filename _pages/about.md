@@ -20,6 +20,12 @@ For more information, here's the [link](https://drive.google.com/file/d/1QPC1BTY
 
 Here's what I have been upto lately: <br/><br/>
 
+@ __Apr 30-May 5, 2025__: At [NAACL 2025](https://2025.naacl.org/) in Albuquerque, New Mexico, we orally presented our work: [MosAIC](https://aclanthology.org/2025.naacl-long.152/), a multi-agent framework leveraging the “power of many” for cross-cultural image captioning. At the [C3NLP](https://c3nlp.github.io/) workshop at NAACL, I presented our work on [region-aware gender bias evaluation](https://aclanthology.org/2025.c3nlp-1.9/), which won an Outstanding Paper Award!! 🏆 You can learn more about my experiences on [LinkedIn](https://www.linkedin.com/posts/anganaborah_naacl2025-activity-7325221922579873792-8aEG?utm_source=share&utm_medium=member_desktop&rcm=ACoAABZ6FRwBjsfF6r07AGdeDvXgnkXpH-sOw7U) and [X](https://x.com/AnganaBorah2/status/1919225801448325458). 
+
+@ __Apr 15-16, 2025__: I gave a talk about our work on belief congruence in LLMs at the [Midwest Speech and Language Days (MSLD) 2025](https://nlp.nd.edu/msld25/), hosted at Notre Dame, Indiana. You can learn more about our work [here](https://x.com/AnganaBorah2/status/1914322632637325351) and [here](https://arxiv.org/pdf/2503.02016)
+
+@__Apr 8, 2025__: I gave a guest lecture about LLM agents in “Introduction to Engineering” at the University of Michigan, Flint. You can find my slides [here](https://docs.google.com/presentation/d/1x2DiyHYgRO0TdN19xKyex6C-r-VKWL5LhyoQHBcdn_A/edit?usp=sharing). 
+
 @ __Mar 3-5, 2025__: I attended the [EFH Innovation Sprint](https://www.ecosystemsfinancehealth.org/hackathon-2025) in Nairobi, Kenya, where I gave a talk on LLM Agents, their evaluation and insights from my PhD research. Here are the [slides](https://drive.google.com/file/d/1TJnVIliKfGTw45DSIWcX8KGxjWV04hMV/view?usp=sharing) of my talk. Here's my [X post](https://x.com/AnganaBorah2/status/1898087229966131603) detailing my experience! 
 
 @ __Mar 4, 2025__: Our paper "[Towards Region-aware Bias Evaluation Metrics](https://arxiv.org/abs/2406.16152)" has been accepted to the C3NLP (Cross-Cultural Considerations in NLP) workshop co-located with NAACL 2025 in Albuquerque, New Mexico!  
