@@ -20,6 +20,10 @@ For more information, here's the [link](https://drive.google.com/file/d/1QPC1BTY
 
 Here's what I have been upto lately: <br/><br/>
 
+@__June 2, 2025__: I’m joining Amazon Alexa as a Research Scientist Intern in Bellevue, Washington this summer! 
+
+@ __May 15, 2025__: Our paper - [Mind the (Belief) Gap: Group Identity in the World of LLMs](https://arxiv.org/abs/2503.02016) on understanding belief congruence in LLMs and it's impact in downstream tasks such as misinformation dissemination and learning has been accepted to ACL 2025 (Findings)!
+
 @ __Apr 30-May 5, 2025__: At [NAACL 2025](https://2025.naacl.org/) in Albuquerque, New Mexico, we orally presented our work: [MosAIC](https://aclanthology.org/2025.naacl-long.152/), a multi-agent framework leveraging the “power of many” for cross-cultural image captioning. At the [C3NLP](https://c3nlp.github.io/) workshop at NAACL, I presented our work on [region-aware gender bias evaluation](https://aclanthology.org/2025.c3nlp-1.9/), which won an Outstanding Paper Award!! 🏆 You can learn more about my experiences on [LinkedIn](https://www.linkedin.com/posts/anganaborah_naacl2025-activity-7325221922579873792-8aEG?utm_source=share&utm_medium=member_desktop&rcm=ACoAABZ6FRwBjsfF6r07AGdeDvXgnkXpH-sOw7U) and [X](https://x.com/AnganaBorah2/status/1919225801448325458). 
 
 @ __Apr 15-16, 2025__: I gave a talk about our work on belief congruence in LLMs at the [Midwest Speech and Language Days (MSLD) 2025](https://nlp.nd.edu/msld25/), hosted at Notre Dame, Indiana. You can learn more about our work [here](https://x.com/AnganaBorah2/status/1914322632637325351) and [here](https://arxiv.org/pdf/2503.02016).
