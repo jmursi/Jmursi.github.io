@@ -20,7 +20,7 @@ For more information, here's the [link](https://drive.google.com/file/d/1QPC1BTY
 
 Here's what I have been upto lately: <br/><br/>
 
-@ __June 2, 2025__: I’m joining Amazon Science as a Research Scientist Intern in Bellevue, Washington this summer! 
+@ __June 2, 2025__: I’m joining Amazon Science (Alexa AI) as a Research Scientist Intern in Bellevue, Washington this summer! 
 
 @ __May 15, 2025__: Our paper - [Mind the (Belief) Gap: Group Identity in the World of LLMs](https://arxiv.org/abs/2503.02016) on understanding belief congruence (a social psychology theory) in LLMs and it's impact on downstream tasks such as misinformation dissemination and learning has been accepted to ACL 2025 (Findings)!
 
