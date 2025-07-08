@@ -24,4 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem "faraday-retry", "~> 2.3"
 end
+
+
