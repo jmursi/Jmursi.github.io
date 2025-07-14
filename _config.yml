@@ -136,6 +136,12 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  collaborate:
+    output: true
+    permalink: /:collection/:path/
+  community:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -218,6 +224,24 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
+  - scope:
+      path: ""
+      type: collaborate
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
+  - scope:
+      path: ""
+      type: community
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
