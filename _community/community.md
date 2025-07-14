@@ -2,6 +2,7 @@
 layout: page
 title: "Community Engagement & Media"
 permalink: /community/
+author_profile: true
 ---
 
 # 🌍 Community Engagement & Media

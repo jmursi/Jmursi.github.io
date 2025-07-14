@@ -2,6 +2,7 @@
 layout: page
 title: "Collaborate"
 permalink: /collaborate/
+author_profile: true
 ---
 
 ## 🤝 Collaborate / Join My Work
