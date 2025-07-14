@@ -28,5 +28,13 @@ I'm also part of the church’s **Social Media Strategy Team**, helping shape it
 
 ## ✍️ Writing & Articles
 
-- *(Coming soon: Include blog posts or Medium articles on AI, civic tech, and community innovation)*
+I regularly share insights on **AI**, **data science**, **digital innovation**, and **civic technology** through articles on Medium.
+
+### Featured Articles
+
+- 🧠 [How AI Can Detect SMS Scams in Kenya](https://medium.com/me/stories/public)
+- 🌍 [Building Trust Through Financial Literacy: The Finlingo Vision](https://medium.com/me/stories/public)
+- 📊 [Social Media Listening Tools for Civic Engagement](https://medium.com/me/stories/public)
+
+👉 [**View all articles on Medium →**](https://medium.com/me/stories/public){:target="_blank"}
 
