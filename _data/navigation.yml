@@ -7,11 +7,18 @@ main:
   - title: "Experience"
     url: /experience/    
   
-#   - title: "Teaching"
-#     url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
   - title: "Projects"
     url: /projects/
+
+  - title: "Collaborate"
+    url: /collaborate/
+
+
+  - title: "Collaborate"
+    url: /collaborate/
     
 
         
@@ -24,5 +31,5 @@ main:
 #   - title: "Guide"
 #     url: /markdown/
     
-#   - title: "Talks"
-#     url: /talks/   
+  - title: "Talks"
+    url: /talks/   
