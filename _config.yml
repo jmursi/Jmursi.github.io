@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "Japheth Mursi"
 title_separator          : "-"
 name                     : &name "Japheth Mursi"
-description              : &description "AI Researcher | Financial Literacy Advocate"
+description              : &description "Lecturer Data Science |NLP Researcher"
 url                      : https://jmursi.github.io
 baseurl                  : "" # leave blank if not in a subfolder
 repository               : "jmursi/jmursi.github.io"
@@ -51,7 +51,7 @@ analytics:
 author:
   name             : "Japheth Mursi"
   avatar           : "jmursidp.jpeg"
-  bio              : "AI Researcher | Financial Literacy Advocate"
+  bio              : "Lecturer Data Science |NLP Researcher"
   location         : "Nairobi, Kenya"
   email            : "mursijapheth@gmail.com"
   github           : "jmursi"
