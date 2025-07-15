@@ -9,19 +9,19 @@ author_profile: true
 I’m always open to meaningful collaborations, volunteer contributions, and mentorship opportunities. Here are some ways you can get involved:
 
 ### ✅ Current Opportunities
-- **Scam Identification Exercise**  
+- 1. **Scam Identification Exercise**  
 Join our initiative to combat digital scams by helping analyze real-world SMS fraud data in Kenya. Volunteers contribute to building safer digital ecosystems through AI-powered tools.
 
-- **Finlingo Development Partners**  
+- 2. **Finlingo Development Partners**  
 Collaborate with us on Finlingo — an AI-powered platform for financial literacy and fraud detection. We welcome technologists, researchers, educators, and funders interested in inclusive financial innovation.
 
-- **Student Mentorship**  
+- 3. **Student Mentorship**  
 As part of the NiweBora Leadership Program, I mentor students transitioning from high school or early university. If you're a student seeking guidance or a mentor willing to support others, you're welcome to reach out.
 
-- **AI Research Collaborations**  
+- 4. **AI Research Collaborations**  
 I’m currently advancing research in misinformation, NLP, and cyber fraud detection. If you're interested in joint research or proposal writing, I’d love to connect.
 
-- **Civic Tech & Policy Engagement**  
+- 5. **Civic Tech & Policy Engagement**  
 We are building partnerships with civil society and community-based organizations to pilot tools for scam detection, digital inclusion, and financial education.
 
 ---
