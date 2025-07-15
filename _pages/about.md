@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 
 --- 
+<div style="text-align: justify;">
 Hello, and welcome to my website!
 I am Dr. Japheth Mursi, an Assistant Professor of Data Science at Daystar University ,  Coordinator Daystar Institute of Data SCience and Cybersecurity and Co-Founder of IwazoLab, a Data analytics and Research Startup in Nairobi.
 
@@ -42,3 +43,4 @@ Over the years, I’ve developed a strong technical and academic foundation thro
 - **BlackBoard**, **Moodle**, **Canvas**
 
 These tools have enabled me to work effectively across research, analytics, teaching, and product development contexts.
+</div>
