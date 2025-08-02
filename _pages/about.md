@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 
 --- 
-Hello, and welcome to my website! ABC
+Hello,
 I am Dr. Japheth Mursi, an Assistant Professor of Data Science at Daystar University and Co-Founder of IwazoLab, a data innovation hub based in Nairobi. I hold a Ph.D. in Information Systems and Technology from the University of KwaZulu-Natal, South Africa, where I researched personality prediction on social media using fuzzy logic and machine learning classifiers. My work bridges the fields of natural language processing (NLP), computational social science, machine learning, and information systems, with a mission to design tools that address pressing societal challenges such as misinformation, civic engagement, and financial literacy.
 
 Over the past six years, I’ve led impactful research projects in academic and industry-adjacent settings. As Research Lead at SIMElab Africa (2022–2024), I oversaw a 21-person team working on social media misinformation, digital well-being, and maternal health AI prototypes. I'm also the driving force behind Finlingo, a conversational AI platform focused on enhancing financial literacy in Africa, which has been presented at global conferences such as IEEE ICTMOD and ASAC.
