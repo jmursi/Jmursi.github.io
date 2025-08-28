@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
 I am Dr. Japheth Mursi, Assistant Professor of Data Science at Daystar University, Co-Founder of IwazoLab, and founder of the Daystar Institute of Data Science, AI & Cybersecurity.  
 
 🏆 Winner of the **Best Poster Dataset Award** at Deep Learning Indaba 2025 (Rwanda).  
