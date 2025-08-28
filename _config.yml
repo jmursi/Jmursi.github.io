@@ -3,8 +3,9 @@ locale                   : "en-US"
 title                    : "Japheth Mursi"
 title_separator          : "-"
 name                     : &name "Japheth Mursi"
-description              : &description "AI Researcher | Financial Literacy Advocate"
+description              : &description "NLP Researcher | Assistant Professor | Best Poster Awardee, Deep Learning Indaba 2025"
 url                      : https://jmursi.github.io
+scholar                  : "https://scholar.google.com/citations?user=f0LGF3wAAAAJ&hl=en"
 baseurl                  : "" # leave blank if not in a subfolder
 repository               : "jmursi/jmursi.github.io"
 teaser                   :
