@@ -5,11 +5,16 @@ permalink: /projects/
 author_profile: true
 ---
 
+### Scam Data Collection & Threat Intelligence
+---
+At IwazoLab, I am leading the creation of a **community-driven dataset on SMS and mobile scams** in Africa.  
+This project supports the development of AI-powered threat intelligence and scam detection tools for financial protection.
+---
+
 ### Habari Harbour – Social Media Listening Tool  
 Led the creation of a social media listening and sentiment analysis tool that provides brand tracking and social insights to content creators and brands in Kenya. The tool supports informed decision-making in Kenya’s digital landscape and empowers local influencers with actionable insights.
 
 ---
-
 ### Finlingo – AI-Powered Financial Literacy Platform  
 Founder of a conversational AI platform aimed at improving financial literacy and detecting mobile scams. Features include real-time scam detection, adaptive learning, and fraud awareness. Built in partnership with Afrela.
 
