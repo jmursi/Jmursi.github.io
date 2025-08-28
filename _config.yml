@@ -1,19 +1,15 @@
-# Site Settings
-locale                   : "en-US"
-title                    : "Japheth Mursi"
-title_separator          : "-"
-name                     : &name "Japheth Mursi"
-description              : &description "NLP Researcher | Assistant Professor | Best Poster Awardee, Deep Learning Indaba 2025"
-url                      : https://jmursi.github.io
-scholar                  : "https://scholar.google.com/citations?user=f0LGF3wAAAAJ&hl=en"
-baseurl                  : "" # leave blank if not in a subfolder
-repository               : "jmursi/jmursi.github.io"
-teaser                   :
-breadcrumbs              : false
-words_per_minute         : 160
-future                   : false
-read_more                : "disabled"
-talkmap_link             : false
+author:
+  name: "Japheth Mursi"
+  avatar: "profile.jpg"
+  bio: "Assistant Professor of Data Science at Daystar University | Co-Founder of IwazoLab | Founder of Daystar Institute of Data Science, AI & Cybersecurity"
+  location: "Nairobi, Kenya"
+  email: "mursijapheth@gmail.com"
+  linkedin: "https://linkedin.com/in/japheth-mursi"
+  github: "https://github.com/jmursi"
+  scholar: "https://scholar.google.com/citations?user=f0LGF3wAAAAJ&hl=en"
+  highlights: >
+    🏆 Best Poster Dataset Award – Deep Learning Indaba 2025  
+    🔍 Current Projects: Scam Data Collection & Threat Intelligence, Finlingo Conversational AI, SIMElab Civic Tech Research
 
 # Comments
 comments:
