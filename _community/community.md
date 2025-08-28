@@ -5,7 +5,10 @@ permalink: /community/
 author_profile: true
 ---
 
-# 🌍 Community Engagement & Media
+# Deep Learning Indaba 2025
+---
+
+Awarded **Best Poster Dataset** for my work on sociolinguistic dimensions of scams and multilingual deception tactics.  
 
 ## 🧒 Sunday School & Church Leadership
 
